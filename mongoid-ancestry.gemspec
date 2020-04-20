@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
     "README.md"
   ]
 
-  s.add_dependency('mongoid', ">= 2.0")
-  s.add_dependency('bson_ext', ">= 1.3")
+  s.add_dependency('mongoid', ">= 2.8")
+  s.add_dependency('bson_ext', ">= 1.9")
 end
 
